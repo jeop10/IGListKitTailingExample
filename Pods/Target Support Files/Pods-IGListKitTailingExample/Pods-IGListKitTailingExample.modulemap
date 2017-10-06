@@ -1,0 +1,6 @@
+framework module Pods_IGListKitTailingExample {
+  umbrella header "Pods-IGListKitTailingExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
